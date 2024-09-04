@@ -1,11 +1,24 @@
 body {
-    background-color: maroon
+    background-color: #E9D9C1
 }
 
 h1 {
-    background-color: grey;
+    background-color: #EAD4A4;
+    color: #9C7545;
+    text-align: center;
 }
 
 h2 {
-    background-color: lightgray;
+    background-color: #EAD4A4;
+    color: #9C7545;
+    text-align: center;
+}
+
+h3 {
+    color : #4D1E08;
+    text-align: center;
+}
+
+h4 {
+    color : #4D1E08;
 }
